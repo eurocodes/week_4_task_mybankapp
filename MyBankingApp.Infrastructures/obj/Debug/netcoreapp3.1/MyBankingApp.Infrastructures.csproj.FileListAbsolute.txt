@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\bin\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.deps.json
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\bin\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.dll
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\bin\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.pdb
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.dll
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.pdb
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Infrastructures\obj\Debug\netcoreapp3.1\MyBankingApp.Infrastructures.csprojAssemblyReference.cache

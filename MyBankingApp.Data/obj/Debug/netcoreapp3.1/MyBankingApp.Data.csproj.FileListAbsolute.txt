@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\bin\Debug\netcoreapp3.1\MyBankingApp.Data.deps.json
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\bin\Debug\netcoreapp3.1\MyBankingApp.Data.dll
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\bin\Debug\netcoreapp3.1\MyBankingApp.Data.pdb
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\bin\Debug\netcoreapp3.1\MyBankingApp.Core.dll
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\bin\Debug\netcoreapp3.1\MyBankingApp.Core.pdb
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.csproj.CopyComplete
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.dll
+C:\Users\hp\Desktop\Ugee\.NET\WEEK-4\Task_Solution\MyBankingApp\MyBankingApp.Data\obj\Debug\netcoreapp3.1\MyBankingApp.Data.pdb

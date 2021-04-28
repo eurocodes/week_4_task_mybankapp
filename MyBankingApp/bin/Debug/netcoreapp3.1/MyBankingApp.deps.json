@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyBankingApp/1.0.0": {
+        "dependencies": {
+          "MyBankingApp.Core": "1.0.0",
+          "MyBankingApp.Repo": "1.0.0",
+          "MyBankingApp.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "MyBankingApp.dll": {}
+        }
+      },
+      "MyBankingApp.Core/1.0.0": {
+        "runtime": {
+          "MyBankingApp.Core.dll": {}
+        }
+      },
+      "MyBankingApp.Data/1.0.0": {
+        "dependencies": {
+          "MyBankingApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyBankingApp.Data.dll": {}
+        }
+      },
+      "MyBankingApp.Infrastructures/1.0.0": {
+        "runtime": {
+          "MyBankingApp.Infrastructures.dll": {}
+        }
+      },
+      "MyBankingApp.Interfaces/1.0.0": {
+        "dependencies": {
+          "MyBankingApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyBankingApp.Interfaces.dll": {}
+        }
+      },
+      "MyBankingApp.Repo/1.0.0": {
+        "dependencies": {
+          "MyBankingApp.Data": "1.0.0",
+          "MyBankingApp.Infrastructures": "1.0.0",
+          "MyBankingApp.Interfaces": "1.0.0",
+          "MyBankingApp.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "MyBankingApp.Repo.dll": {}
+        }
+      },
+      "MyBankingApp.Utilities/1.0.0": {
+        "runtime": {
+          "MyBankingApp.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBankingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Infrastructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBankingApp.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
